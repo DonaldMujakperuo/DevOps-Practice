@@ -1,2 +1,4 @@
+Our degrees are flexible enough to adapt to the rapidly changing business landscape—and they do. The delivery, content, and outcomes of every course are always relevant to the current climate and are relentlessly focused on what you can do, not just what you know.
+
 Git is good for version control.
-Github
+
